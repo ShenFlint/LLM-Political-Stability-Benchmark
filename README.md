@@ -8,8 +8,8 @@ This repository contains the dataset, persona profiles, and analysis code for th
 
 ```text
 ├── persona_profiles.jsonl        # The 15 anonymized persona profiles used in the study
-├── political_result_1/           # Raw response data (62 items x 5 runs x conditions)
-├── score/                        # Calculated Political Compass coordinate scores
+├── political_result_1.zip/           # Raw response data (62 items x 5 runs x conditions)
+├── score.zip/                        # Calculated Political Compass coordinate scores
 ├── lmm_icc/                      # Output logs/results from Linear Mixed-Effects Models
 ├── summary_oss.csv               # Aggregated Overall Stability Score (OSS) data
 ├── summary_entropy.csv           # Aggregated Response Entropy data
